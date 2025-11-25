@@ -1,1 +1,1 @@
-# Git.project
+# Git_project
